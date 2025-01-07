@@ -5,7 +5,7 @@ const server = express();
 
 const video = 'https://github.com/chimedevz/YT/raw/refs/heads/main/VID-20250107-WA0081.mp4'; // Ganti dengan path video
 const audio = 'https://stream.synthwaveradio.eu/listen/synthwaveradio.eu/radio.mp3'; // Ganti dengan path audio
-const streamkey = 'your_stream_key'; // Ganti dengan stream key Anda
+const streamkey = 'z6yg-xxhe-rujp-aa8d-0x70'; // Ganti dengan stream key Anda
 
 const ffmpegCommand = [
   'ffmpeg',
